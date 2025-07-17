@@ -1,0 +1,15 @@
+!.gitignore
+*/
+*
+!.gitignore
+
+# Folders
+!alacritty/*
+!qtile/*
+
+# Files
+!README.md
+!LICENSE
+!select_default.sh
+
+

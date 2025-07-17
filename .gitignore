@@ -1,11 +1,10 @@
+/*
 !.gitignore
-*/
-*
-!.gitignore
+!.gitmodules
 
 # Folders
-!alacritty/*
-!qtile/*
+!alacritty
+!qtile
 
 # Files
 !README.md
